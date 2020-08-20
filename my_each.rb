@@ -7,5 +7,5 @@ while count < array.length
   yield (array [count])
     count += 1
   end
-  count += 1
+
 end
