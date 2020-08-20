@@ -1,6 +1,6 @@
 require 'pry'
 
 def my_each(array)
-while  < array.length 
+while compare < array.length 
 end
 end
