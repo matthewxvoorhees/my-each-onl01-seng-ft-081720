@@ -1,4 +1,4 @@
 --color
 --warnings
 --format documentation
---f-fail
+--fail-fast
