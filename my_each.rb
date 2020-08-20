@@ -1,7 +1,9 @@
 require 'pry'
 
+count = 0
+
 def my_each(array)
-while test < array.length 
+while count < array.length 
   test + 1
   end
 end
