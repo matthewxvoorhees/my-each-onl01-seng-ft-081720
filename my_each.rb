@@ -1,5 +1,5 @@
 require 'pry'
 
 def my_each(array)
-while 
+while array < 
 end
